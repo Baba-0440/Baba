@@ -2,3 +2,4 @@ cloning baba
 created a file
 fetching changes
 pull
+checking status
